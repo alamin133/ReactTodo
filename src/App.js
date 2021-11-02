@@ -14,17 +14,17 @@ function App() {
     {
       sno:1,
       title: "Go to the market",
-      desc: "You need to go to the market to get this job done"
+      desc: "You need to go to the market and buy something for dinner"
     },
     {
       sno:2,
       title: "Go to the mall",
-      desc: "You need to go to the market to get this job done2"
+      desc: "Go to mall to buy something for next party where we will go"
     },
     {
       sno:3,
       title: "Go to the ghat",
-      desc: "You need to go to the market to get this job done3"
+      desc: "You need to go ghat to fixed ticket for our next tour"
     }
   ]
   return (
